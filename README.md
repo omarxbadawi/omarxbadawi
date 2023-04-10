@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Omar Badawi
-- 🌱 I’m currently in my second year of studying MEng Artificial Intelligence at the University of Manchester. 
+- 🌱 I’m currently in my third year of studying MEng Artificial Intelligence at the University of Manchester. 
 - 📫 You can reach me by email at omarxbadawi@gmail.com
 
 <!---
